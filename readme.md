@@ -15,7 +15,7 @@ The chatbot is accessible via a Streamlit web interface, providing a conversatio
 
 ### 1. Clone the Repository
 ```zsh
-git clone <repo-url>
+git clone https://github.com/NabeelQaiser/alltius-assignment.git
 cd alltius-assignment
 ```
 
