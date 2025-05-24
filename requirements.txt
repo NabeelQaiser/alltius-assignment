@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-core
+faiss-cpu
+bs4
+requests
+pypdf
+sentence-transformers
+langchain-huggingface
+langchain_ollama

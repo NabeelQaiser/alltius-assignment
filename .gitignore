@@ -1,0 +1,28 @@
+# Byte-compiled / cache / virtual env
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# FAISS vectorstore data
+faiss_insurance_pdf/
+faiss_angelone_support/
+
+# Embedded docs and crawled data
+insurance_pdf_embedded_docs.txt
+angelone_support_embedded_docs.txt
+angelone_support_embedded_docs_unfiltered.txt
+
+# Streamlit
+.streamlit/
+
+# Misc
+*.log
+*.tmp
